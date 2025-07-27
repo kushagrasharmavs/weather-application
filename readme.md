@@ -1,6 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArisuAbhilash.weather-app&left_color=navy" />
-</div>
 
 # 🌦️ Weather Forecast Web App
 
