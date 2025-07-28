@@ -49,7 +49,7 @@ A responsive and interactive **Weather Forecast Web Application** built using **
 ### 🧪 Local Setup
 
 
-    git clone https://github.com/ArisuAbhilash/weather-application-.git
+    https://github.com/kushagrasharmavs/weather-application-.git
 
     cd weather-app
 
@@ -84,16 +84,6 @@ Set target and region:
 
     ibmcloud cr region-set eu-central
 
-Push to IBM Cloud Container Registry:
-
-    ibmcloud cr login
-
-    ibmcloud cr namespace-add abhilash-sec88
-
-    docker tag weather-app de.icr.io/abhilash-sec88/weather-app:1.0
-
-    docker push de.icr.io/abhilash-sec88/weather-app:1.0
-
 ### 📁 Project Structure
 
 weather-app/</br>
@@ -108,11 +98,5 @@ weather-app/</br>
 ├── Dockerfile</br>
 └── README.md</br>
 
-### 🙋‍♂️ Author
 
-Abhilash Maurya
-
-🌐 Live Demo
-
-(Optional: Add Code Engine or localhost tunnel URL if deployed)
 
